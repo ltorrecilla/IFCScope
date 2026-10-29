@@ -40,9 +40,6 @@
   - Tailwind (cdn.tailwindcss.com)
   - Tabulator 6.2.1 (cdnjs)
 
-Not needed: vite.hub.config.js, vite.hubconvert.config.js (Project Hub). Remove the hub build from the build script in package.json.
-
-
 ## Support the development
 Making BIM available for free & open-source, you can support the project via:
 
